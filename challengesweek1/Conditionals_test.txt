@@ -1,0 +1,15 @@
+﻿Write out a collection of conditionals that evaluates a new variable for how many hours of sleep the user gets.
+You can just initialize this variable for now
+
+    If the hours slept is greater or equal to 10, write to the console "Wow that's a lot of sleep!"
+    (else if)
+    If the hours is greater than 8 but less than 10, write to the console "You should be pretty rested"
+    (else if)
+    If the hours is greater than 4 but less than 8, output "Bummer"
+    (else)
+    For any other condition output "Oh man, get some sleep!"
+
+
+    Write out a switch case that evaluates a variable that holds the value for how the user's day has been.
+
+    Have a case for: "Great", "Good", "Okay", "Bad", ":(" and output a response to the Console for each.

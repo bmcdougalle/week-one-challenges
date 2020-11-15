@@ -1,0 +1,7 @@
+C:\Users\billy\Desktop\ElevenFiftyProjects\DotNetProjects\week1 challenges\csharp_challenges\challengesweek1\bin\Debug\challengesweek1.exe.config
+C:\Users\billy\Desktop\ElevenFiftyProjects\DotNetProjects\week1 challenges\csharp_challenges\challengesweek1\bin\Debug\challengesweek1.exe
+C:\Users\billy\Desktop\ElevenFiftyProjects\DotNetProjects\week1 challenges\csharp_challenges\challengesweek1\bin\Debug\challengesweek1.pdb
+C:\Users\billy\Desktop\ElevenFiftyProjects\DotNetProjects\week1 challenges\csharp_challenges\challengesweek1\obj\Debug\challengesweek1.csprojAssemblyReference.cache
+C:\Users\billy\Desktop\ElevenFiftyProjects\DotNetProjects\week1 challenges\csharp_challenges\challengesweek1\obj\Debug\challengesweek1.csproj.CoreCompileInputs.cache
+C:\Users\billy\Desktop\ElevenFiftyProjects\DotNetProjects\week1 challenges\csharp_challenges\challengesweek1\obj\Debug\challengesweek1.exe
+C:\Users\billy\Desktop\ElevenFiftyProjects\DotNetProjects\week1 challenges\csharp_challenges\challengesweek1\obj\Debug\challengesweek1.pdb
